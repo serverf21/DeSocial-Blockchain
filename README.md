@@ -11,9 +11,17 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-> > urQL and GraphQL allows us to integrate Lens Protocol
-> > Ethers allow us to make API calls to the blockchain
-> > Using create-react-app and react-based ChakraUI for the frontend
+
+1. urQL and GraphQL allows us to integrate Lens Protocol
+2. EtherJS allow us to make API calls to the blockchain
+3. Using create-react-app and react-based ChakraUI for the frontend
+4. Metamask to establish connection to Polygon
+
+Preview - 
+
+https://github.com/serverf21/DeSocial-Blockchain/assets/30923855/c32fc5c8-6d30-4430-a061-a7c06da1aae5
+
+
+
+
